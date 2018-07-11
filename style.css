@@ -1,0 +1,13 @@
+body{
+	background: linear-gradient(to left,red,purple);
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	text-align: center;
+	margin: 0;
+}
+
+h1{
+	font-weight: bold;
+	font-family: fantasy;
+	margin: 2em;
+}
